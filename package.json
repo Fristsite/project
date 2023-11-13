@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "fastify": "^4.24.3",
+    "fastify-cli": "^5.9.0",
+    "fastify-cors": "^6.1.0",
+    "fastify-formbody": "^5.3.0",
+    "fastify-jwt": "^4.2.0",
+    "jsonwebtoken": "^9.0.2",
+    "pg": "^8.11.3",
+    "sequelize": "^6.35.0"
+  }
+}
